@@ -7,7 +7,7 @@
     <title>{$title}</title>
 </head>
 <body>
-    <h3>{$title}</h3>
-    <a href="company.php">DEMO CRUD company table</a>
+    <h3>Display error and exit program</h3>
+    <p>{$errmsg}</p>
 </body>
 </html>

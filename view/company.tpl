@@ -8,6 +8,7 @@
 </head>
 <body>
     <h3>{$title}</h3>
-    <a href="company.php">DEMO CRUD company table</a>
+    <a href="javascript::void(0)" onclick="window.history.go(-1); return false;">back</a>
+    <hr/>
 </body>
 </html>
