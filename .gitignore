@@ -1,5 +1,5 @@
 /.env
 /.vscode
 vendor/
-view_c/
-templates_c/
+view/cache/
+view/compiled/
